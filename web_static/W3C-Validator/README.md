@@ -1,4 +1,4 @@
-# W3C validator for Holberton School
+# W3C validator Alx school
 
 For HTML and CSS files.
 
@@ -10,7 +10,7 @@ Based on 2 APIs:
 ## Installation
 1. Clone this repo
 ```sh
-git clone https://github.com/holbertonschool/W3C-Validator.git
+git clone https://github.com/alexanderushe/W3C-Validator.git
 ```
 
 2. Run shell script (see example in [usage](#usage) section below)
